@@ -1,0 +1,10 @@
+html{
+    font-size: 40px;
+}
+body{
+    background-color: rgb(59, 59, 85);
+}
+main{
+    font-size: 20px;
+    display: grid;
+}
